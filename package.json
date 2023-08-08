@@ -1,5 +1,6 @@
 {
   "name": "training",
+  "homepage": "git@github.com:etnachhausetelefonieren/Training_React.git",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
