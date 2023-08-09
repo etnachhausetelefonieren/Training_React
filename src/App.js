@@ -23,6 +23,8 @@ function App() {
         <p>Zahl = <span>{value}</span></p>
        <div> <button onClick={() => setValue(value + 1)}>+</button></div>
        <div> <button onClick={() => setValue(value - 1)}>-</button></div>
+       <div> <button onClick={() => setValue(value + 1)}>+</button></div>
+       <div> <button onClick={() => setValue(value - 1)}>-</button></div>
       </header>
     </div>
   );
