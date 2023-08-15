@@ -1,0 +1,16 @@
+.BottomNavigationImpl-header {
+    background-color: #d3209d;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: top left;
+    font-size: calc(10px + 2vmin);
+    color: rgb(255, 255, 255);
+  }
+
+  .BottomNavigationImpl {
+    text-align: center;
+  }
+
+  
